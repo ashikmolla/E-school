@@ -1,7 +1,21 @@
+/* my pimary code  */
+.bg-ff5200 {
+    background: #ff5200;
+}
+
+.color-ff5200 {
+    color: #ff5200;
+}
+
+/*--------------------
+     login setion
+ -------------------- */
+
 .login-section {
     background: rgb(237, 236, 236);
-    border: 1px solid;
     padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 90px;
 
 }
 
@@ -71,3 +85,13 @@
     cursor: pointer;
     text-decoration: none;
 }
+
+
+
+
+
+/* @media only screen and (max-width: 520px) {
+    .barkpointe {
+      display: block;
+    }
+} */
